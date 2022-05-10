@@ -35,12 +35,13 @@ hr{
     text-align: center !important;
     display: inline-block !important;
     margin-top: 15px !important;
+    /* width: 600px !important; */
     
 }
 .searchinput{
-    width: 450px !important;
+    width: 400px !important;
     border: 0 !important;
-    width: 500px !important; height: 50px !important;
+    height: 50px !important;
 }
 .form-control{
     text-align: center !important;
